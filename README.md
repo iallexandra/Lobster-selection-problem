@@ -1,5 +1,5 @@
 # Lobster-selection-problem
-The Lobster Selection Problem is a variant of the classic "Knapsack Problem," where the goal is to maximize the total value of items (lobsters, in this case) that can be carried within a given weight (capacity) limit.
+The Lobster Selection Problem is a variant of the classic "Knapsack Problem," where the goal is to maximize the total value of items (lobsters, in this case) that can be carried within a given weight (capacity) limit. This problem is a practical illustration of resource optimization, commonly encountered in various fields such as logistics, finance, and operations management. The solution approach demonstrates greedy algorithms, where decisions are made step-by-step to ensure the best immediate benefit, leading to an overall optimal solution.
 
 Prerequisites
 Ensure you have a C compiler installed on your system. Common options include gcc for Linux/Unix-based systems and clang for macOS. For Windows, you can use MinGW or a similar package that includes gcc.
