@@ -10,10 +10,8 @@ Save the following C code to a file named lobster_selection.c:
 
 
 #include <stdio.h>
-
 int main()
-{
-    float Size[50], Value[50], ratio[50], Totalvalue = 0, temp, capacity;
+{ float Size[50], Value[50], ratio[50], Totalvalue = 0, temp, capacity;
     int i, j, number;
     
     printf("Enter the number of Lobsters :");
